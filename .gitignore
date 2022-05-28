@@ -1,0 +1,6 @@
+/app
+*.swp
+*.log
+/nginx-proxy/nginx-proxy.conf.bkp*
+/nginx-proxy/nginx-proxy.conf
+/nginx-proxy/*bkp*
